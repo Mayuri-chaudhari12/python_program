@@ -1,0 +1,17 @@
+print("Hello python")
+print('Hello words')
+print("""Hello
+         words
+         tops""")
+print("python \" Hello")
+print('Hello \' words')
+print("Hello ' words")
+print('Hello " words')
+print("Hello \\words")
+print("abc \txyz")
+print("abc\bxyz")
+print("abc\nxyz")
+print("python","java","php",sep="|")
+print("python",end="")
+print("php")
+print('Hello \\\' words')
